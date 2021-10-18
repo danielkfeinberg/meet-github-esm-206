@@ -14,7 +14,7 @@ The organization of this document probably seems strange. That's because it's pa
 
 [Link to the Lab 4 prompt](https://docs.google.com/document/d/1KX6_bKA8BOO0NdsUviVi0HCT-q9iTCtTYsS1dGNQJfU/edit?usp=sharing)
 
-### Cool animal fun facts {.tabset .tabset-fade}
+### Cool animal fun facts (the information in the curly braces allows for interactive components in the knitted document in all headers below that of the current header (level 4 and further) "{.tabset .tabset-fade}") {.tabset .tabset-fade}
 
 #### SHARKS!!!
 
@@ -45,6 +45,14 @@ The organization of this document probably seems strange. That's because it's pa
 - Pika are of order *Lagomorpha* (which also includes rabbits)
 - Pika live in high altitude talus slopes
 - American pika are already disappearing from the Sierra Nevada
+
+#### Ring-tailed cats
+
+Here's where I want to have info on ring-tails. 
+
+![Ringtail cat (courtesy of VA Zoo)](img/ringtail_cat.jpg)
+
+We'll also learn about `knitr::include_graphics()`
 
 ###
 
